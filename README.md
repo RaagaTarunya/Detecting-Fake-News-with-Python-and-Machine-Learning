@@ -31,7 +31,7 @@ The model processes and vectorizes news article text using **TF-IDF**, then trai
 ## ⚙️ Installation  
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fake-news-detection.git
+git clone https://github.com/RaagaTarunya/fake-news-detection.git
 cd fake-news-detection
 
 # Install dependencies
